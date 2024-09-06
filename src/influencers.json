@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Andrej Karpathy",
+      "twitter": "https://x.com/karpathy",
+      "github": "https://github.com/karpathy",
+      "description": "OpenAI founding memeber - Best AI teacher in the world"
+    },
+    {
+      "name": "Georgi Gerganov",
+      "twitter": "https://x.com/ggerganov",
+      "github": "https://github.com/ggerganov",
+      "description": "Creator of llama.cpp"
+    }
+  ]
+  
